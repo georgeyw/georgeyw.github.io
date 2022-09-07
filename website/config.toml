@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://georgeyw.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'George Wang'
 theme = 'cactus'
 [params]
 	colortheme = 'light'
