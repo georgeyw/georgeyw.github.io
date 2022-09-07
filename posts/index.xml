@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on George Wang</title>
-    <link>http://georgeyw.github.io/posts/</link>
+    <link>https://georgeyw.github.io/posts/</link>
     <description>Recent content in Posts on George Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Sep 2022 05:06:37 -0500</lastBuildDate><atom:link href="http://georgeyw.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Sep 2022 05:06:37 -0500</lastBuildDate><atom:link href="https://georgeyw.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://georgeyw.github.io/posts/hello-world/</link>
+      <link>https://georgeyw.github.io/posts/hello-world/</link>
       <pubDate>Wed, 07 Sep 2022 05:06:37 -0500</pubDate>
       
-      <guid>http://georgeyw.github.io/posts/hello-world/</guid>
+      <guid>https://georgeyw.github.io/posts/hello-world/</guid>
       <description>#Hello World</description>
     </item>
     
