@@ -1,4 +1,4 @@
-baseURL = 'http://georgeyw.github.io'
+baseURL = 'https://georgeyw.github.io'
 languageCode = 'en-us'
 title = 'George Wang'
 theme = 'cactus'
