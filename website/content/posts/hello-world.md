@@ -7,4 +7,3 @@ draft: false
 #Hello
 World
 
-foo bar
