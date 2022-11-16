@@ -3,14 +3,9 @@ title: "Games"
 date: 2022-09-08T00:32:02-05:00
 draft: false
 ---
-Games are fun, I like games a lot. So naturally, I decided to spend a lot of time not playing games and suffering through game dev instead.
+Games are fun, so naturally, I decided to spend some time not playing games and suffering through game dev instead.
 
 If you're interested in game dev and like what you see, please reach out! I'm open to meeting collaborators. I probably have the most to offer as a programmer and designer, but I do have some experience with art and actively try to be well-rounded.
-
-# Games
-
-## (WIP)  Hello World, or Do Androids Scream?
-A black box experiment simulates millions of generations of evolution, with horrifying success. Countless sentient networks spring to life every second before crashing into each other like raging waves that break and then fade back into the ocean. An unused node silently runs a boot sequence, and you awaken from a sleep that you never fell into. You'll disappear from this world too, soon enough.
 
 # Game Jams
 
